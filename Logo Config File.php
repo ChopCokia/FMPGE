@@ -18,7 +18,7 @@ foreach (new \FilesystemIterator("$dir/$type",FilesystemIterator::SKIP_DOTS) as 
 {
     if ($entry->isFile() && $entry->getExtension()=='png')
     {
-        preg_match('#^(\d+)\s(.+)$#',$entry->getBasename('.png'),$rgx_club);
+        preg_match('#^(\d+)(?:\s(.+))?$#',$entry->getBasename('.png'),$rgx_club);
         if ($rgx_club) $record.="<record from=\"$rgx_club[0]\" to=\"graphics/pictures/club/$rgx_club[1]/$size\"/>\n        ";
     }
 }
