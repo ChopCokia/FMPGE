@@ -10,6 +10,6 @@ Contoh2 format nama fail yang diterima ialah:
 
 # Cara penggunaan
 1. Buka command prompt di Windows anda.
-2. Taip 'php <path file ini>'
+2. Taip 'php [path file ini]'
 3. Skrip akan meminta 'path directory' yang ingin di imbas.
 4. Kemudian akan meminta anda untuk tentukan sama ada fail konfigurasi yang ingin di tulis adalah untuk logo(normal) atau ikon(kecil)- sila taip 1 atau 2.
