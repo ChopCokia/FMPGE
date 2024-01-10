@@ -9,7 +9,7 @@ Contoh2 format nama fail yang diterima ialah:
    106694 Selangor FC.png
 
 # Cara penggunaan
-1. Buka command prompt di Windwos anda.
+1. Buka command prompt di Windows anda.
 2. Taip 'php <path file ini>'
 3. Skrip akan meminta 'path directory' yang ingin di imbas.
 4. Kemudian akan meminta anda untuk tentukan sama ada fail konfigurasi yang ingin di tulis adalah untuk logo(normal) atau ikon(kecil)- sila taip 1 atau 2.
