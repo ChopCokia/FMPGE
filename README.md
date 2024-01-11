@@ -3,10 +3,7 @@
 ![Cli Screenshot](https://github.com/ChopCokia/FMPGE/blob/main/php-cli.png)https://github.com/ChopCokia/FMPGE/blob/main/php-cli.png
 
 Snippet ini membolehkan anda melakukan automasi untuk mencipta fail konfigurasi config.xml untuk logo bagi Permainan Football Manager. Begitupun, fail imej/logo mestilah mempunyai format nama seperti berikut < UID >[ Nama Kelab ].png.
-Contoh2 format nama fail yang diterima ialah:
-   106694.png
-   106694 Selangor.png
-   106694 Selangor FC.png
+Contoh2 format nama fail yang diterima ialah: 106694.png, 106694 Selangor.png, 106694 Selangor FC.png
 
 # Cara penggunaan
 1. Buka command prompt di Windows anda.
